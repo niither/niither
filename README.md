@@ -5,7 +5,3 @@
 #### How many times this page has been visited:
 
 ![Visit counter](https://moe-counter.glitch.me/get/@:niitherGitHub?theme=3d-num)
-
-#### Stats
-
-![Metrics](https://raw.githubusercontent.com/niither/niither/master/github-metrics.svg)
