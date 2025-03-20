@@ -8,4 +8,4 @@
 
 #### Stats
 
-![Metrics](https://raw.githubusercontent.com/sunmeat/sunmeat/master/github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/niither/niither/master/github-metrics.svg)
